@@ -1,0 +1,38 @@
+# Home Assistant core
+requests==2.18.4
+pyyaml>=3.11,<4
+pytz>=2017.02
+pip>=8.0.3
+jinja2>=2.9.6
+voluptuous==0.10.5
+typing>=3,<4
+aiohttp==2.3.7
+yarl==0.18.0
+async_timeout==2.0.0
+chardet==3.0.4
+astral==1.4
+certifi>=2017.4.17
+mysqlclient
+psycopg2
+uvloop
+cchardet 
+cython
+
+# homeassistant.components.recorder
+# homeassistant.scripts.db_migrator
+sqlalchemy==1.2.1
+
+# homeassistant.components.frontend
+home-assistant-frontend==20180119.0
+
+# homeassistant.components.frontend
+user-agents==1.1.0
+
+# homeassistant.components.media_player.bluesound
+# homeassistant.components.sensor.swiss_hydrological_data
+# homeassistant.components.sensor.ted5000
+# homeassistant.components.sensor.yr
+xmltodict==0.11.0
+
+# homeassistant.components.discovery
+netdisco==1.2.4
